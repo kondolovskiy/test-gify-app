@@ -1,0 +1,13 @@
+.select-header {
+  height: 50px;
+  border-bottom: 1px solid #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.select-header button {
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+}
